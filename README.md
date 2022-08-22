@@ -5,7 +5,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lopszd&layout=compact&langs_count=7&theme=dracula"/>
  <div align="center"></div>  
 
-![]([https://discord.c99.nl/widget/theme-3/442355791412854784.png](https://discord.c99.nl/widget/theme-3/300775613005037568.png))  
+![](https://discord.c99.nl/widget/theme-3/300775613005037568.png)
 
 ***
 <div style="display: inline_block"><br>
