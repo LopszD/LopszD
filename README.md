@@ -3,9 +3,9 @@
   <a href="https://github.com/LopszD">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lopszd&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lopszd&layout=compact&langs_count=7&theme=dracula"/>
-## <div align="center">I'm Tomato, mainly a Discord Bot Developer! Working since 2017 on Bots 🚀</div>  
+ <div align="center"></div>  
 
-![](https://discord.c99.nl/widget/theme-3/442355791412854784.png)  
+![]([https://discord.c99.nl/widget/theme-3/442355791412854784.png](https://discord.c99.nl/widget/theme-3/300775613005037568.png))  
 
 ***
 <div style="display: inline_block"><br>
